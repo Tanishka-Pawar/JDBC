@@ -34,8 +34,9 @@ This project demonstrates real-world database handling in Java — perfect for l
 - Database: MySQL
 - Connectivity: JDBC
 - IDE: Eclipse
-
+---
 ##Output
+
 <img src="images/HMS1.png" alt="HMS1" width="600">
 <img src="images/HMS2.png" alt="HMS2" width="600">
 <img src="images/HMS3.png" alt="HMS3" width="600">
