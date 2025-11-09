@@ -1,14 +1,13 @@
-# Hospital Management System (JDBC Project)
+# Hospital Management System 
 
 ## Project Overview
 The **Hospital Management System** is a Java console-based application that helps hospitals manage patients, doctors, and appointments efficiently.  
 It uses **JDBC (Java Database Connectivity)** to perform CRUD operations on a **MySQL database**.
-
 This project demonstrates real-world database handling in Java — perfect for learning JDBC and SQL integration.
 
 ---
 
-##Features
+## Features
 
 ### Doctor Management
 - Add new doctors  
@@ -29,15 +28,17 @@ This project demonstrates real-world database handling in Java — perfect for l
 
 ---
 
-##Technologies Used
+## Technologies Used
 - Language: Java
 - Database: MySQL
 - Connectivity: JDBC
 - IDE: Eclipse
 ---
-##Output
+## Output
 
 <img src="images/HMS1.png" alt="HMS1" width="600">
-<img src="images/HMS2.png" alt="HMS2" width="600">
-<img src="images/HMS3.png" alt="HMS3" width="600">
+
+<img src="images/HSM2.png" alt="HMS2" width="600">
+
+<img src="images/HSM3.png" alt="HMS3" width="600">
 
