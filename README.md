@@ -30,4 +30,4 @@ This project demonstrates real-world database handling in Java — perfect for l
 ---
 
 ##Output
-images/HMS1.png
+![](images/HSM1.png)
